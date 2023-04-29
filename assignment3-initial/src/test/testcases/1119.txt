@@ -1,0 +1,11 @@
+
+        foo: function auto(x: integer, inherit y:auto){
+        }
+        bar: function integer () inherit foo {
+            super(1,1);
+            y = true;
+        }
+        main: function void () {
+            a: boolean = foo(1,1);
+        }
+        

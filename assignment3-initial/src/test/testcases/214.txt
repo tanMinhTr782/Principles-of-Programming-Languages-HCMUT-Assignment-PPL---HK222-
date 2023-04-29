@@ -1,0 +1,6 @@
+
+            main: function void () {
+                a: boolean;
+                c:string = "11.11";
+                a = (11.11 >= c); 
+        }

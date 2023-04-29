@@ -1,0 +1,4 @@
+Program([
+	VarDecl(a, ArrayType([3], IntegerType), Id(c))
+	VarDecl(b, ArrayType([3], IntegerType), Id(d))
+])

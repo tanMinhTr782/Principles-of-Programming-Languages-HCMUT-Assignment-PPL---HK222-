@@ -1,0 +1,5 @@
+Program([
+	VarDecl(x, StringType, StringLit(He asked me: ))
+	VarDecl(y, StringType, StringLit(Where is John))
+	VarDecl(z, StringType, BinExpr(::, Id(x), Id(y)))
+])

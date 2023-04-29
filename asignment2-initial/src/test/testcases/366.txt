@@ -1,0 +1,7 @@
+
+        binToDec: function integer (input: string, out result: integer){
+        
+        }
+        main: function void (){
+        a: float = binToDec("1111"); 
+        }

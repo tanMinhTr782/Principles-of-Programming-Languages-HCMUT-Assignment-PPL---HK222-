@@ -1,0 +1,4 @@
+
+        main: function float(){}
+        main: function void(){}
+        

@@ -1,0 +1,14 @@
+
+        foo: function auto(){
+            x: integer = 10;
+            if (x>5){
+                return 1.0;
+            }
+            else {
+                return 5;
+            }
+        }
+        main: function void(){
+            x: integer = foo();
+        }
+        

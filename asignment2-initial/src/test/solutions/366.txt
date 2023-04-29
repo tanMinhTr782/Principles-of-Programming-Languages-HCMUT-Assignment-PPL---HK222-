@@ -1,0 +1,4 @@
+Program([
+	FuncDecl(binToDec, IntegerType, [Param(input, StringType), OutParam(result, IntegerType)], None, BlockStmt([]))
+	FuncDecl(main, VoidType, [], None, BlockStmt([VarDecl(a, FloatType, FuncCall(binToDec, [StringLit(1111)]))]))
+])

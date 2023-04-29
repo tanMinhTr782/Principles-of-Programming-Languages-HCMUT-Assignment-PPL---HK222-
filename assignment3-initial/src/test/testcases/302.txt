@@ -1,0 +1,6 @@
+
+            bds: function integer () {
+                return a; 
+            }
+            main: function void () {
+        }

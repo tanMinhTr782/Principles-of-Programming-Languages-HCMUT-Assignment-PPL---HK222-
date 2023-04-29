@@ -1,0 +1,2 @@
+dbs: function void (inherit a: integer, out b: float, inherit out c: auto) inherit dsa {
+        }

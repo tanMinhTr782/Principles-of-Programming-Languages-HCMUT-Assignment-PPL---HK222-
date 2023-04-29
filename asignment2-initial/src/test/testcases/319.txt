@@ -1,0 +1,7 @@
+_tester: function integer (out i: integer) inherit dsa {
+            i:integer = 15 - 7 + 9;
+            if (i%2==0) {
+                printInteger(i); 
+            } 
+            return i; 
+        }

@@ -1,0 +1,16 @@
+
+        iOT : function string (inherit SE: integer, inherit out DBS: string, out FS: string) inherit dADN{
+                result: string = "CE"; 
+                readInteger();
+                printString(DBS);
+                result = result + "CS"; 
+                return result; 
+        }
+        main: function integer () {
+            a: float = 2_8.01 + 11.11;
+            b: array [3,3] of float; 
+            b: array [2022] of integer; 
+            IOT(221,"Oracle","Adafruit MQTT"); 
+            for (i = 0, i < 2022, i + 1) b[i] = 0; 
+            return 0; 
+        }

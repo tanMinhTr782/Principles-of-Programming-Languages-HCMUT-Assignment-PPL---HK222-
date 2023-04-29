@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(main, VoidType, [], None, BlockStmt([VarDecl(checker, BooleanType, Id(True)), IfStmt(UnExpr(!, Id(checker)), CallStmt(printString, StringLit(Don't look for me)), CallStmt(printString, StringLit(Everything Goes On)))]))
+])

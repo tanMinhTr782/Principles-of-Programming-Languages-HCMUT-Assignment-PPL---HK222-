@@ -1,0 +1,4 @@
+
+            x: float = 10 % 2 + .2E-10 * 012 + 8.98;
+            y: boolean =  (true||false)&&true||false;
+        

@@ -1,0 +1,8 @@
+
+        foo: function string (inherit x: auto){}
+        bar: function string () inherit foo{
+            super(1);
+            return;
+        }
+        main: function void(){}
+        

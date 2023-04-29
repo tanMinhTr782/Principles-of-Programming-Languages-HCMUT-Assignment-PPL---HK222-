@@ -1,0 +1,6 @@
+main : function void() {
+                a: integer = 2002; 
+                b: array [10] of integer;  
+                if (b[0] > a) a = b[0]; 
+                else b[0] = a; 
+        }

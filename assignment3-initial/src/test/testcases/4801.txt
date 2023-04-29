@@ -1,0 +1,7 @@
+
+        foo: function auto(x: integer, y:auto){
+            foo(1,1.0);
+            y = true;
+        }
+        main: function void () {}
+        

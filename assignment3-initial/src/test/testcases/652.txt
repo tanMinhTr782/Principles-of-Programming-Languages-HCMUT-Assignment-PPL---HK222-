@@ -1,0 +1,7 @@
+
+        foo: function void (a:auto) {}
+        a: function void () {}
+        main: function void () {
+                foo(a);
+        }
+        

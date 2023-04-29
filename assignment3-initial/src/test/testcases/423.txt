@@ -1,0 +1,8 @@
+
+        main: function void () {}
+        foo: function void (x:integer) {
+            {
+                foo: integer;
+            }
+        }
+        

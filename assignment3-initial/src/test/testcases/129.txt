@@ -1,0 +1,8 @@
+
+        a: float;
+        b: integer;
+        main: function void () {
+            a = 1 + b;
+            b = 1.5 + a;
+        }
+        

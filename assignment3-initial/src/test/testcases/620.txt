@@ -1,0 +1,7 @@
+
+        a: integer;
+        fibo: function integer (n: integer) {
+            return a;
+        }
+        main: function void () {}
+        

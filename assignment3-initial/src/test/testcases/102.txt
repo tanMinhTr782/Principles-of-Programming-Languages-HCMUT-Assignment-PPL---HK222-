@@ -1,0 +1,4 @@
+
+        main: function void (x:float) {}
+        main: function void () {}
+        

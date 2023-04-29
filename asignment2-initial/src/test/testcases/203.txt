@@ -1,0 +1,2 @@
+x:float = -5; 
+        y: auto = !true;

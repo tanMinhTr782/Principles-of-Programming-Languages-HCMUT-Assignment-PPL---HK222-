@@ -1,0 +1,7 @@
+
+        foo: function auto(a:integer){}
+        main: function void(){
+        x: float = foo(1);
+        foo(1);
+        }
+        

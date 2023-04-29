@@ -1,0 +1,6 @@
+
+            main: function void () {
+                for (i = true, i >= 0, i - 1){
+                
+                } 
+        }

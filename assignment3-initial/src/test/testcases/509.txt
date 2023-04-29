@@ -1,0 +1,5 @@
+
+            main: function void () {
+                a:array [4] of integer = {1}; 
+                // a: array [0] of integer; // khong can bat
+        }

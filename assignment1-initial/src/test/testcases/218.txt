@@ -1,0 +1,10 @@
+
+            x: integer = 65;
+            mess: function integer (n: integer){
+                return n/50 * 2;
+            }
+            main: function void () {
+                delta: integer = mess(7);
+                printInt(delta);
+            }
+        

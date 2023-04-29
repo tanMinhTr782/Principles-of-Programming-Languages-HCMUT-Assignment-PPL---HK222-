@@ -1,0 +1,6 @@
+
+        fibo: function integer (n: integer) {
+            {break;}
+        }
+        main: function void () {}
+        

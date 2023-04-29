@@ -1,0 +1,6 @@
+
+        foo: function integer(x:integer, y:float){}
+        main: function void(){
+            foo(t);
+        }
+        

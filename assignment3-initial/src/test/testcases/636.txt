@@ -1,0 +1,4 @@
+
+        foo: function integer() inherit bar{preventDefault();}
+        main: function void () {}
+        

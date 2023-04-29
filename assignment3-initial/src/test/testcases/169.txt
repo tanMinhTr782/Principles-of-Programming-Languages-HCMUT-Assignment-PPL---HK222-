@@ -1,0 +1,7 @@
+
+        foo:function auto() {}
+         a: integer = foo();
+        main: function void () {
+            b: boolean = foo();
+        }
+        

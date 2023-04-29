@@ -1,0 +1,1 @@
+Type mismatch in Variable Declaration: VarDecl(arr, ArrayType([2], IntegerType), ArrayLit([Id(a), Id(b)]))

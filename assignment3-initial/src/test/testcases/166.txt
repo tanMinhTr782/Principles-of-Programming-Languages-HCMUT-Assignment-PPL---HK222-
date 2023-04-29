@@ -1,0 +1,6 @@
+
+            a: function integer (p : array [1] of integer) {}
+            main: function void () {
+            b: integer = a({0});
+            }
+        

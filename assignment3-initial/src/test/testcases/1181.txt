@@ -1,0 +1,7 @@
+
+        foo: function integer(x:integer, y:float){}
+        bar: function integer () inherit foo{
+            super(1,true);
+        }
+        main: function void(){}
+        

@@ -1,0 +1,2 @@
+dbs: function void () inherit dsa {
+        }

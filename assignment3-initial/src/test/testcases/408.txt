@@ -1,0 +1,4 @@
+
+        fact: function void (m:integer, n: float) inherit foo {}
+        main: function void () {}
+        

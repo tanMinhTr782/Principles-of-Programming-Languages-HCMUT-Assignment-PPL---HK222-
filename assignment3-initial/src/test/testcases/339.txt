@@ -1,0 +1,8 @@
+
+            foo: function integer() {
+                return "Hello world"; 
+            }
+            main: function void () {
+                foo(); 
+                
+        }

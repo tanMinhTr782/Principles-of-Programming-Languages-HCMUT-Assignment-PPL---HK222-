@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(calYear, VoidType, [Param(a, ArrayType([28], IntegerType))], None, BlockStmt([CallStmt(printInteger, IntegerLit(4)), IfStmt(BinExpr(<, ArrayCell(a, [IntegerLit(0), IntegerLit(0)]), IntegerLit(10)), AssignStmt(ArrayCell(a, [IntegerLit(0), IntegerLit(3)]), ArrayCell(a, [IntegerLit(0), IntegerLit(1)])), BlockStmt([ForStmt(AssignStmt(Id(i), IntegerLit(0)), BinExpr(<, Id(i), IntegerLit(8)), BinExpr(+, Id(i), IntegerLit(1)), AssignStmt(ArrayCell(a, [IntegerLit(0), Id(i)]), BinExpr(+, IntegerLit(2010), Id(i))))]))]))
+])

@@ -1,0 +1,14 @@
+
+        main: function void () {}
+        x : auto = "Kien";
+        foo: function void (x:integer, y: float, z:string) {
+            a:float;
+            {
+                b: integer;
+                {
+                    b: integer;
+                    x:integer;
+                }
+            }
+        }
+        

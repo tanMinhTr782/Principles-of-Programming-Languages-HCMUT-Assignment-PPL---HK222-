@@ -1,0 +1,10 @@
+
+            r, s: integer;
+            main: function void () {
+                a, b: array [5] of integer;
+                s = r * r ;
+                a[0] = b[2];
+                a[0] = b[4]+a[0];
+                r = 2.0;
+            }
+        

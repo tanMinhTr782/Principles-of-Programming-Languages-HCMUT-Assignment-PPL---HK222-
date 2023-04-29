@@ -1,0 +1,11 @@
+_t3st3r: function integer (inherit out i: auto) inherit dsa {
+            a: array [5] of integer;
+            i: integer = 0; 
+            do {
+                a[i] = 0; 
+                i = i + 1; 
+            }
+            while (i < 5);
+            a[2] = a[1] + 19 * 4; 
+            return a[2];
+        }

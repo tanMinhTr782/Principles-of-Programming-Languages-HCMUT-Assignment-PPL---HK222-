@@ -1,0 +1,4 @@
+
+        a,b: array [3] of integer = c,d;
+
+        

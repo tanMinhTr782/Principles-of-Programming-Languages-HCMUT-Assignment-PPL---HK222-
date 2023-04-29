@@ -1,0 +1,6 @@
+
+        a: integer;
+        main: function void(){
+            a = 3.5;
+        }
+        

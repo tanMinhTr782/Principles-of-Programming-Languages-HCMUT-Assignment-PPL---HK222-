@@ -1,0 +1,7 @@
+
+            main: function void () {
+                x: integer = 11;
+                a:array [12] of integer;  
+                b: integer;
+                b = a[x]; 
+        }

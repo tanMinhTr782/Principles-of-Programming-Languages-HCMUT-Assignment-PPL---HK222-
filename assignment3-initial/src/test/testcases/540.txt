@@ -1,0 +1,5 @@
+
+        a: array[3] of integer = {1,2,3};
+        b: array[1,2,1] of integer = {{{69},{420}}};
+        main: function void () {}
+        

@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(dbs, ArrayType([5], IntegerType), [], dsa, BlockStmt([]))
+])

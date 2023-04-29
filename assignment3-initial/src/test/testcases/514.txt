@@ -1,0 +1,8 @@
+
+        i:string;
+        foo: function integer (a:integer, b: float) {
+            for(i = "Hello World", i < 10, i + 1) {
+                return 0;
+            }
+        }
+        

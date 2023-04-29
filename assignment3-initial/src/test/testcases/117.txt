@@ -1,0 +1,5 @@
+
+        x: function void() {a:integer;} 
+        a: function void() {}
+        main: function void () {}
+        

@@ -1,0 +1,5 @@
+
+        x: function void (x:float) {}
+        main: function void (x:float) {}
+        y: function void (a:float, a:float) {}
+        

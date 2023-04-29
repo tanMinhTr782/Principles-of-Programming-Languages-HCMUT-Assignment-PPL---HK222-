@@ -1,0 +1,7 @@
+
+        z : string;
+        x,y : boolean, float;
+            test: function integer (out x:integer, data:string){
+            c : integer;
+           }
+        

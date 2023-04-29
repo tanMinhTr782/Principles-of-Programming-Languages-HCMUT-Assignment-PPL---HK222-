@@ -1,0 +1,20 @@
+program: decllist EOF;
+decllist: decl decllist | decl;
+decl: init; 
+//vardecl1: idlist COLON TYPE; 
+init: ID COMMA init COMMA expr| (ID COLON TYPE EQ expr);  
+//vardecl 
+// locals [IDCount = 0, LitCount = 0]: idlist {++$IDCount} ':' TYPE ('=' litlist {++$LitCount} {if ($LitCount != $IDCount): raise ErrorToken(self.text)})? ';' ;    
+idlist: ID COMMA idlist | ID ; 
+exprlist: expprime | ;
+expprime: expr COMMA expprime | expr;
+expr: expr1 SCOPE expr1 | expr1; 
+expr1: expr2 (SAME | NOTSAME | HIGHER | HIGHER_EQ | LOWER | LOWER_EQ ) expr2;
+expr2: expr3 (ADD | MINUS) expr2 | expr3;  
+expr3: expr4 (MUL | DIV | PCENT) expr3 | expr4;
+logicOP: NOT expr4; 
+signOP: MINUS expr4;
+indexOP: ID expr4;
+expr4: INTLIT | STRINGLIT | FLOATLIT | ID | signOP | logicOP | indexOP | callexpr | subexpr; 
+callexpr: ID LB exprlist RB; 
+subexpr: LB expr RB; 

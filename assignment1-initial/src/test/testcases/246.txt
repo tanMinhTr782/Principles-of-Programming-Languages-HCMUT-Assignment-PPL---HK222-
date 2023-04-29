@@ -1,0 +1,5 @@
+
+                x: string = "Trung";
+                y: string = "Kien";
+                z: string = x::y;
+        

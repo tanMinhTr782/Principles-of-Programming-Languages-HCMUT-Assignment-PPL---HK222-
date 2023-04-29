@@ -1,0 +1,8 @@
+_t3st3r: function integer (inherit out i: integer) inherit dsa {
+            i:integer = 15 - 7 + 9;
+            do {
+                i = i * 2; 
+            }
+            while (i < 100); 
+            return (i / 2) * -4 - 5;  
+        }

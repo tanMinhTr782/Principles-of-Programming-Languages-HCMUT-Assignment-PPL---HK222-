@@ -1,0 +1,6 @@
+
+        x: function integer() {} 
+        foo: function void() { 
+            x: integer = x();
+        } 
+        

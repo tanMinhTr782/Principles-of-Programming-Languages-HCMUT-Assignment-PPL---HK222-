@@ -1,0 +1,6 @@
+
+            main : function void() {
+                x : integer ;
+                if(x==3){}
+            }
+        

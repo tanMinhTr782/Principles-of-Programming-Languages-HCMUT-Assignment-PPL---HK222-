@@ -1,0 +1,7 @@
+
+            x : integer ;
+            main : function void() {
+                if(x==3) {y :integer = 3;}
+                else {y : integer = 34;}
+            }
+        

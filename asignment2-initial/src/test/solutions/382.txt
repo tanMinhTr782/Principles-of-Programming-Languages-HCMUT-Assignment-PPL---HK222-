@@ -1,0 +1,5 @@
+Program([
+	VarDecl(arr, ArrayType([64, 64], IntegerType))
+	VarDecl(x, IntegerType, IntegerLit(1111))
+	FuncDecl(main, VoidType, [], None, BlockStmt([IfStmt(BinExpr(==, Id(x), IntegerLit(1111)), BlockStmt([AssignStmt(ArrayCell(arr, [IntegerLit(3), IntegerLit(4)]), ArrayCell(arr, [IntegerLit(1), IntegerLit(2)]))]), BlockStmt([AssignStmt(ArrayCell(arr, [IntegerLit(0), IntegerLit(1)]), ArrayCell(arr, [IntegerLit(1), IntegerLit(0)]))]))]))
+])

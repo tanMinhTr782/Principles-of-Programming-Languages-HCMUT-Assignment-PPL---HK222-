@@ -1,0 +1,12 @@
+
+            arr : array [6_4,6_4] of integer;
+            x : integer = 11_11;
+            main : function void() {
+                if(x==1111) {
+                    arr[3,4] = arr[1,2];
+                }
+                else {
+                    arr[0,1] = arr[1,0] ;
+                }
+            }
+        

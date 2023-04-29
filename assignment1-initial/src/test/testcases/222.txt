@@ -1,0 +1,9 @@
+
+            main: function void () {
+                i: integer = 10;
+                while (i>20){
+                    i = i + 2;
+                }
+                return  i;
+            }
+        

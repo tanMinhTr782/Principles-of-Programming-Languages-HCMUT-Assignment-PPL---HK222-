@@ -1,0 +1,9 @@
+
+        foo: function auto(){}
+        bar: function integer(x:integer, y:float){}
+        main: function void(a:auto){
+            x: boolean;
+            bar(a,1.0);
+            a = true;
+        }
+        

@@ -1,0 +1,6 @@
+
+        fibo: function auto (n: integer) {
+            return false;
+        }
+        main: function void () {}
+        

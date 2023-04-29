@@ -1,0 +1,7 @@
+
+         a: string = "Ligma";
+         b: auto = "ball";
+         main: function void(){
+            a = a::" "::b::" "::1;
+         }
+        

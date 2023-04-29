@@ -1,0 +1,13 @@
+
+            voidA: function integer (n: integer){
+                return n%10;
+            }
+            voidB: function void (out n: integer, delta:integer){
+                n = n + voidA(delta);
+            }
+            main: function void () {
+                delta: integer = 5;
+                voidB(x,delta);
+                printInt(x);
+            }
+        

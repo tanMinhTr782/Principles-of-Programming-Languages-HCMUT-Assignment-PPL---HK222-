@@ -1,0 +1,6 @@
+
+            main: function void () {
+                delta: string = "Kien";
+                printString(delta);
+            }
+        

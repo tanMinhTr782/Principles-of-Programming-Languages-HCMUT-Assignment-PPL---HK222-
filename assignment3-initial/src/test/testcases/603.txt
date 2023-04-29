@@ -1,0 +1,6 @@
+
+        a: integer;
+        b: float;
+        a: string;
+        main: function void () {}
+        

@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(getHigh, IntegerType, [InheritOutParam(well, IntegerType)], None, BlockStmt([WhileStmt(BinExpr(>, Id(well), IntegerLit(10)), BlockStmt([IfStmt(BinExpr(<, Id(well), IntegerLit(15)), BreakStmt(), ContinueStmt()), ForStmt(AssignStmt(Id(i), Id(well)), BinExpr(>, Id(i), IntegerLit(0)), BinExpr(-, Id(i), IntegerLit(1)), BlockStmt([CallStmt(printString, StringLit(I can do it))])), AssignStmt(Id(well), BinExpr(-, Id(well), IntegerLit(1)))])), ReturnStmt(Id(well))]))
+])

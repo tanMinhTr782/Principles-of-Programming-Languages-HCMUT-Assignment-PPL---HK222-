@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(z, BooleanType, [InheritParam(a, BooleanType)], dsa, BlockStmt([ForStmt(AssignStmt(Id(i), IntegerLit(1)), BinExpr(<, Id(i), IntegerLit(10)), BinExpr(+, Id(i), IntegerLit(1)), CallStmt(printInteger, Id(i))), VarDecl(x, IntegerType, UnExpr(!, BooleanLit(True))), ReturnStmt(Id(a))]))
+])

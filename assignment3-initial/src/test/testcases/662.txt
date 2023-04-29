@@ -1,0 +1,7 @@
+
+        b: integer;
+        foo: function void(out a: integer, out b:boolean){}
+        main: function void () {
+            foo(b,true);
+        }
+        

@@ -1,0 +1,11 @@
+
+        foo: function integer (x: float) {}
+        foo1: function void (a:integer, inherit x: float) inherit foo{
+                super(11.11); 
+                x: integer = 2023; 
+                return;  
+        }
+            main: function void () {
+                foo1(21,21.12); 
+                
+        }

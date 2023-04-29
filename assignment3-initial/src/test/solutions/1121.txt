@@ -1,0 +1,1 @@
+Type mismatch in statement: IfStmt(Id(x), BlockStmt([VarDecl(y, IntegerType, IntegerLit(3))]))

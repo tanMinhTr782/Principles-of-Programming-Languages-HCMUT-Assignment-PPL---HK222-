@@ -1,0 +1,5 @@
+main: function void () {
+            a,b: integer = 0,1; 
+            if ((a > b) && (b < 0) || (a < b) && (a == 0)) printString("Saitama Sensei"); 
+            else {donothing: integer = 2023;}
+        }

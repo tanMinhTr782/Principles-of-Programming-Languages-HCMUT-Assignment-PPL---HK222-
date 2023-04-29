@@ -1,0 +1,7 @@
+
+        a: auto = foo();
+        foo: function float (){}
+        main: function void(){
+        a = 1+1;
+        }
+        

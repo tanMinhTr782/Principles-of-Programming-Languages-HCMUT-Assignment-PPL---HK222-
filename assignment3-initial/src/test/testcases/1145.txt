@@ -1,0 +1,11 @@
+
+        foo: function integer(){}
+        bar: function integer(x: auto, y:float){
+            bar(foo(),1.0);
+            x = 1;
+            x = true;
+        }
+        main: function void(){
+
+        }
+        

@@ -1,0 +1,9 @@
+
+        gcd: function integer (a: integer, b: integer) {
+            if (b == 0) return a; 
+            return gcd(b, a % b); 
+        }
+        main: function void (inherit out i: integer){
+            a,b: integer = -(-15),60;
+            return gcd(a,b); 
+        }

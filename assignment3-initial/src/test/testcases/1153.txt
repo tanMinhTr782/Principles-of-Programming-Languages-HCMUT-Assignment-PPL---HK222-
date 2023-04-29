@@ -1,0 +1,8 @@
+
+        main: function void(){
+            x: integer = foo();
+        }
+        foo: function auto(){
+            return 1.0;
+        }
+        

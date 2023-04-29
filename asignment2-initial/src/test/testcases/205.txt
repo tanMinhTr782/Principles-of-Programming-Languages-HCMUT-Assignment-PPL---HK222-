@@ -1,0 +1,2 @@
+a: array [16,16] of string = {"I", "Love","You"};
+        b: array[5] of float = {1e2,10.21e2}; 

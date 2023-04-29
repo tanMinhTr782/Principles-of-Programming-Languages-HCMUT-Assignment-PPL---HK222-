@@ -1,0 +1,5 @@
+main : function void() {
+                a: array [16,16] of integer; 
+                b: integer;
+                b = a[15,15]; 
+            }

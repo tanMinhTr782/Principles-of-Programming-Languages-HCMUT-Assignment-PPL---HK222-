@@ -1,0 +1,5 @@
+
+            foo: function integer (){}
+            main: function void () {
+                a: integer = 2.3 + foo(); 
+        }

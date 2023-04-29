@@ -1,0 +1,14 @@
+
+        foo: function auto(){}
+        foo1: function auto(x:integer, y:float){}
+        foo2: function auto(x:integer, y:boolean){}
+        foo3: function integer(x:integer, y: float, z:boolean, t:string){}
+        foo4: function void(){}
+        main: function void () {
+            x: integer;
+            y: float;
+            z: boolean;
+            y = 1.0 + foo();
+            z = foo();
+        }
+        

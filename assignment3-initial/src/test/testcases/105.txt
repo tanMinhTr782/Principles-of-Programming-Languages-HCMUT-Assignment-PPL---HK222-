@@ -1,0 +1,4 @@
+
+        foo: function void () inherit tmp {}
+        foo: function void () {}    
+        

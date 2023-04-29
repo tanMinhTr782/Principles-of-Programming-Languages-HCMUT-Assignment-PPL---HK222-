@@ -1,0 +1,14 @@
+
+        main: function void () {
+            while (true) {
+                break;
+            }
+            if(1<2){
+                a: integer = 1;
+            }
+            //i:integer = 1;
+            for(i=3,i<5,i+2){
+                continue;
+            }
+        }
+        

@@ -1,0 +1,5 @@
+
+                x: string = "He asked me: ";
+                y: string = "Where is John";
+                z: string = x::y;
+        

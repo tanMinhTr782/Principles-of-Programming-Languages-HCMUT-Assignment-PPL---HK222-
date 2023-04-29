@@ -1,0 +1,5 @@
+
+        fact: function integer (x:integer, y: float, z:boolean) {}
+        fact: function void (m:integer, n: float) {}
+        main: function void () {}
+        

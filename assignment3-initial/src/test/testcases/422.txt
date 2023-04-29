@@ -1,0 +1,4 @@
+
+        main: function void (x:integer) {}
+        main: function void (x:integer) {}
+        

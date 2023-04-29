@@ -1,0 +1,10 @@
+
+        foo1: function integer(y:integer) { 
+            y = y + foo(12); 
+            return y;
+        }
+        foo: function auto (x:integer) {
+            return 10; 
+            return true; 
+        }
+        

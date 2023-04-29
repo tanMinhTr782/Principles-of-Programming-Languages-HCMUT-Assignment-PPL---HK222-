@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(dbs, ArrayType([5], IntegerType), [InheritParam(a, ArrayType([9], BooleanType))], dsa, BlockStmt([]))
+])

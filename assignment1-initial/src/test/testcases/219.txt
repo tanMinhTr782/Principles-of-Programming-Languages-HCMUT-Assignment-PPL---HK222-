@@ -1,0 +1,13 @@
+
+            add: function integer (n: integer){
+                sum: integer= 0;
+                for (i = 0, i<=n, i+1){
+                    sum = sum + i;
+                }
+                return sum;
+            }
+            main: function void () {
+                delta: integer = add(10);
+                printInt(delta);
+            }
+        

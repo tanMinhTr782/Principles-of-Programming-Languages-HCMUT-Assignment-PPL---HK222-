@@ -1,0 +1,8 @@
+
+        foo: function integer (inherit x: integer){}
+        bar: function integer () inherit foo{
+            super(1);
+            return x*1.4;
+        }
+        main: function void(){}
+        

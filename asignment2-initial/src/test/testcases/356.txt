@@ -1,0 +1,9 @@
+x: integer = 65;
+        main: function integer () {
+            a: float = 2.0;
+            a = 6.9; 
+            b: array [2022] of integer;
+            b[0] = 0;
+            for (b[0] = 0, b[0] < 1, b[0] + 1) b[1] = 0; 
+            return 0; 
+        }

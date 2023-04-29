@@ -1,0 +1,4 @@
+Program([
+	VarDecl(x, IntegerType, IntegerLit(65))
+	FuncDecl(fact, IntegerType, [Param(n, IntegerType)], None, BlockStmt([AssignStmt(Id(n), IntegerLit(0)), WhileStmt(BinExpr(<, Id(n), IntegerLit(69)), BlockStmt([CallStmt(printString, StringLit(Tran Ngoc Bao Duy)), AssignStmt(Id(n), BinExpr(+, Id(n), IntegerLit(1))), IfStmt(BinExpr(==, Id(n), IntegerLit(68)), BreakStmt(), ContinueStmt())])), WhileStmt(BinExpr(>, Id(n), IntegerLit(67)), AssignStmt(Id(n), BinExpr(-, Id(n), IntegerLit(1)))), ReturnStmt(Id(n))]))
+])

@@ -1,0 +1,6 @@
+
+                dbs: function integer () inherit dsa {
+                return 1; 
+        }
+            x: integer = dbs(); 
+        

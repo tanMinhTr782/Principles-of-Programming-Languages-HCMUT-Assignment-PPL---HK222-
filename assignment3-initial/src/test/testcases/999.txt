@@ -1,0 +1,9 @@
+
+        temp1: function string(){}
+        foo: function auto(){}
+        main: function void () {
+            x: string;
+            x = foo()::temp1;
+            x = foo();
+        }
+        

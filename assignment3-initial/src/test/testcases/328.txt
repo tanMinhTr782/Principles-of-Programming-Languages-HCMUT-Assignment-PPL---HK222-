@@ -1,0 +1,6 @@
+
+            main: function void () {
+                while (2 / 4) {
+                
+                }
+        }

@@ -1,0 +1,8 @@
+
+        main: function void(){
+            x:float = foo();
+        }
+        foo: function auto(){
+            return 1;
+        }
+        

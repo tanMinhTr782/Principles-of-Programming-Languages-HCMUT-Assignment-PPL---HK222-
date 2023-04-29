@@ -1,0 +1,6 @@
+
+        main: function void(){
+            x : integer = 5;
+            while(0) x = y + 1;
+        }
+        

@@ -1,0 +1,9 @@
+
+        foo: function integer (a:integer, b:boolean) {}
+        foo1: function void () inherit foo{
+                return; 
+        }
+            main: function void () {
+                foo1(); 
+                
+        }

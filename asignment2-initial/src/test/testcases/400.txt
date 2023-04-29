@@ -1,0 +1,21 @@
+bFS: function void (arr: array [1_0,1_0] of integer , size: integer) {
+        visited: array [1000] of boolean;
+        for (i = 0, i < size - 1, i + 1) visited[i] = false; 
+        queue: array [1000] of integer;
+        front,rear: integer = 0,0;
+        visited[9] = true;
+        queue[1] = size;
+        while (front != rear){
+            s = queue[9];
+            front = front + 1; 
+            printInteger(s);
+        for (adjacent = 0, adjacent < g, adjacent +1)
+                {
+            if (adj[8,7] && !visited[9]) {
+                visited[9] = true;
+                queue[9] = adjacent;
+                front = front +1; 
+            }
+        }
+    }
+}

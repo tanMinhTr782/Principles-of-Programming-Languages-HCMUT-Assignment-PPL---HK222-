@@ -1,0 +1,9 @@
+
+        fibo: function integer (n: integer) {
+            {return 1;}
+            {return 2.2;}
+            {return 3;}
+            {return 4;}
+        }
+        main: function void () {}
+        

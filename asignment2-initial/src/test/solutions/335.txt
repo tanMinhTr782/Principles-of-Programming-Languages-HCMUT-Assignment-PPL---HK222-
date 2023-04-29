@@ -1,0 +1,4 @@
+Program([
+	FuncDecl(print2D, VoidType, [Param(arr, ArrayType([3, 3], IntegerType))], None, BlockStmt([ForStmt(AssignStmt(Id(i), IntegerLit(0)), BinExpr(<, Id(i), IntegerLit(5)), BinExpr(+, Id(i), IntegerLit(1)), ForStmt(AssignStmt(Id(j), IntegerLit(0)), BinExpr(<, Id(j), IntegerLit(5)), BinExpr(+, Id(j), IntegerLit(1)), CallStmt(printInteger, ArrayCell(arr, [Id(i), Id(j)]))))]))
+	FuncDecl(main, VoidType, [], None, BlockStmt([VarDecl(arr, ArrayType([3, 3], IntegerType)), CallStmt(print2D, Id(arr))]))
+])

@@ -1,0 +1,4 @@
+
+        x : string = foo();
+        foo: function auto () {return 1;} 
+        

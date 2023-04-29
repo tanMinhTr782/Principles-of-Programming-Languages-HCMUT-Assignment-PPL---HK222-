@@ -1,0 +1,1 @@
+tes1, test2 : array [3,4] of string;

@@ -1,0 +1,8 @@
+z: function string (inherit a: boolean) inherit dsa {
+            for (i = 1, i < 10, i + 1) {
+                printInteger(i); 
+                break; 
+            }
+            x:integer = !true;
+            return a; 
+        }

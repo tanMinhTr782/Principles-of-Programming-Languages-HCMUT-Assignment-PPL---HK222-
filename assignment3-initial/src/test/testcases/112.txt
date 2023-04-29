@@ -1,0 +1,4 @@
+
+        foo: function void(x:integer) inherit tmp {}
+        tmp: function void(y:integer, inherit x:integer) {}
+        

@@ -1,0 +1,6 @@
+
+            main: function void () {
+                x:float; 
+                x = 1; 
+                
+        }

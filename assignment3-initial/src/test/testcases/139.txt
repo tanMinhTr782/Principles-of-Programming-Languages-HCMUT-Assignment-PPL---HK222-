@@ -1,0 +1,7 @@
+
+        foo: function integer() inherit bar{preventDefault();}
+        bar: function integer(inherit out n:integer,inherit a:float) {preventDefault();}
+        fizz: function integer(inherit sixty9:auto) inherit Bar {preventDefault();}
+        buzz: function integer() inherit fizz{preventDefault();}
+        main: function void () {}
+        

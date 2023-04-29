@@ -1,0 +1,8 @@
+
+        foo: function auto(){}
+        bar: function boolean(){
+            return foo();
+        }
+        main: function void(){
+        }
+        

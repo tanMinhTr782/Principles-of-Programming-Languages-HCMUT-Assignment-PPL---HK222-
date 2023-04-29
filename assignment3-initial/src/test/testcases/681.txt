@@ -1,0 +1,4 @@
+
+        func: function void(a: integer, b: float) {}
+        main: function void() { func(1);}
+        

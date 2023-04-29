@@ -1,0 +1,8 @@
+
+        foo: function auto(x: integer, y:auto){
+        }
+        a: integer = foo(1,1);
+        main: function void () {
+            a: boolean = foo(1,true);
+        }
+        
