@@ -1,0 +1,4 @@
+Program([
+	VarDecl(a, ArrayType([16, 16], StringType), ArrayLit([StringLit(I), StringLit(Love), StringLit(You)]))
+	VarDecl(b, ArrayType([5], FloatType), ArrayLit([FloatLit(100.0), FloatLit(1021.0)]))
+])

@@ -1,0 +1,6 @@
+
+        test: function integer () {
+            return -true;
+        }
+        main: function void () {}
+        

@@ -1,0 +1,12 @@
+
+            main : function void() {
+                x :integer ;
+                 if(x==3){
+                    y : integer ;
+                    if(y==4) {z : integer = 4;}
+                    else {
+                    z : integer = 5;
+                    }
+                } else { z : integer = 3;}
+            }
+        

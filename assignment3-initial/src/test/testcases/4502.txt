@@ -1,0 +1,18 @@
+
+        foo: function integer(inherit x: integer) inherit bar
+        {
+            super(2);
+            {
+                {
+                    x:integer;
+                    foo(1);
+                }
+            }
+        }
+
+        bar: function integer(inherit y: integer) inherit foo2 
+        {
+            super(1.0);
+        }
+        foo2: function integer(inherit z: float){}
+        

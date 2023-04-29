@@ -1,0 +1,9 @@
+ 
+        getMax: function integer (inherit a: array [4] of integer) {
+            max: integer = 0; 
+            for (i = 0, i < 4,i + 1){
+                if (a[i] > max) max = a[i]; 
+            }
+            return max; 
+        }
+        

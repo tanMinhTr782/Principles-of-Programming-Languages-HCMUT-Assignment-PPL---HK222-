@@ -1,0 +1,14 @@
+
+        fibo: function integer (n: integer) {
+            {
+                n: integer = 1;
+                k: integer = 1;
+            }
+            k: integer = 1;
+            {
+                n: integer = 1;
+                k: integer = 1;
+            }
+        }
+        main: function void () {}
+        

@@ -1,0 +1,7 @@
+
+        a: auto = foo(1,2)+3.1;
+        foo: function integer (c: integer, d: integer) {}
+        main: function void () {
+            foo(a,a);
+        }
+        

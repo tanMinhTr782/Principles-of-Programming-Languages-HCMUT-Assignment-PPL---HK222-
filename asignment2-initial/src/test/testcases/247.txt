@@ -1,0 +1,6 @@
+main : function void() {
+                printString("This is block 0"); 
+                {
+                        printString("This is block 1"); 
+                }
+        }

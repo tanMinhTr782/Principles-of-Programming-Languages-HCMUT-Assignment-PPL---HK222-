@@ -1,0 +1,4 @@
+Program([
+	VarDecl(x, IntegerType)
+	FuncDecl(main, VoidType, [], None, BlockStmt([CallStmt(count, BinExpr(/, IntegerLit(1), IntegerLit(100)), BinExpr(+, BinExpr(*, IntegerLit(2027), IntegerLit(2028)), IntegerLit(1)))]))
+])

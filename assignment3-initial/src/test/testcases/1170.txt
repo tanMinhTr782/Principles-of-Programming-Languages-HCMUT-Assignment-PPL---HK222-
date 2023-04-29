@@ -1,0 +1,6 @@
+
+            foo: function void() inherit foo1{
+                super(1);
+            }
+            foo1: function integer (inherit a:integer, inherit b:integer){}
+        

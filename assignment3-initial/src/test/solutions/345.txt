@@ -1,0 +1,5 @@
+Program([
+	FuncDecl(foo, IntegerType, [], None, BlockStmt([]))
+	FuncDecl(foo1, VoidType, [Param(a, IntegerType)], foo, BlockStmt([CallStmt(preventDefault, )]))
+	FuncDecl(main, VoidType, [], None, BlockStmt([CallStmt(foo1, IntegerLit(69))]))
+])

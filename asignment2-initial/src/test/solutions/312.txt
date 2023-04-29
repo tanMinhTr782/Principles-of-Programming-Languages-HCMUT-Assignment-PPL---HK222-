@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(dbs, VoidType, [InheritParam(a, IntegerType), OutParam(b, FloatType), InheritOutParam(c, AutoType)], dsa, BlockStmt([]))
+])

@@ -1,0 +1,6 @@
+
+            test: function integer (){
+                arr : array [2,3] of float;
+                x = arr [0,1];
+           }
+        

@@ -1,0 +1,7 @@
+
+        a: float;
+        b: string;
+        main: function void () {
+            a = 1 + b;
+        }
+        

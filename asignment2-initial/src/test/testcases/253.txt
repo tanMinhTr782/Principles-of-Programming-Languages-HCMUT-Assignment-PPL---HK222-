@@ -1,0 +1,5 @@
+main : function void() {
+                a: array [10] of integer; 
+                for (a[1] = 0, a[1] < 9, a[1] + 1) {
+                }
+        }

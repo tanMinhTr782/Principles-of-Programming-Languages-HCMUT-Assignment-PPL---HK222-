@@ -1,0 +1,8 @@
+
+        foo: function void(out a: auto, out b: integer) {
+         a = a + b; 
+        }
+        main: function void () {
+            foo(1,2);
+        }
+        

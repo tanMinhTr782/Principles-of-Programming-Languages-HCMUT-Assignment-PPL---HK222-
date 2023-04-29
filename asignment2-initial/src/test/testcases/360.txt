@@ -1,0 +1,9 @@
+main: function void () {
+            printInteger(4);
+            a: array [2_8] of integer; 
+            a[0,0] = 1111; 
+            a[0,1] = 2022; 
+            a[0,0] = a[0,1] / 2 - 11 + 1000 * 2; 
+            printInteger(a[0,0]); 
+            return 0; 
+        }

@@ -1,0 +1,11 @@
+foo: function void(){
+
+       {
+
+            x = 5;
+
+        }
+
+        x: integer;
+ }
+ 

@@ -1,0 +1,15 @@
+
+        foo: function auto(x: integer, y:auto){
+            {
+                y = 5.0;
+                {
+                    {
+                        {
+                            y = true;
+                        }
+                    }
+                }
+            }
+        }
+        main: function void () {}
+        

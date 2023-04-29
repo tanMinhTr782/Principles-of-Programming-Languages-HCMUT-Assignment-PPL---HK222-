@@ -1,0 +1,6 @@
+
+        a: boolean;
+        main: function void(){
+            a = true && false || (1+2);
+        }
+        

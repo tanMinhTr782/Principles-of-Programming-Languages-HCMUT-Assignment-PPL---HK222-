@@ -1,0 +1,8 @@
+
+        foo:function auto() {}
+        main: function void () {
+            a: boolean = foo();
+            b: boolean = foo();
+            c: string = foo();
+        }
+        

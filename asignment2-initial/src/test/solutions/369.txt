@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(main, VoidType, [], None, BlockStmt([AssignStmt(Id(hcmut), IntegerLit(21)), AssignStmt(Id(hcmut), BinExpr(+, IntegerLit(21), UnExpr(-, IntegerLit(1)))), CallStmt(printString, BinExpr(::, StringLit(HCMUT), StringLit(K20)))]))
+])

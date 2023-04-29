@@ -1,0 +1,5 @@
+
+                arr : array [2,3] of integer = {1,2,3,4,5,6};
+                arr [0,1] = ;
+                y: float = array_test[1+1,x] + 1/100;
+        

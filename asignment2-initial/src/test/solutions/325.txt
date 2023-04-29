@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(_t3st3r, IntegerType, [InheritOutParam(i, IntegerType)], dsa, BlockStmt([VarDecl(i, IntegerType, BinExpr(+, BinExpr(-, IntegerLit(15), IntegerLit(7)), IntegerLit(9))), DoWhileStmt(BinExpr(<, Id(i), IntegerLit(100)), BlockStmt([AssignStmt(Id(i), BinExpr(*, Id(i), IntegerLit(2)))])), ReturnStmt(BinExpr(-, BinExpr(*, BinExpr(/, Id(i), IntegerLit(2)), UnExpr(-, IntegerLit(4))), IntegerLit(5)))]))
+])

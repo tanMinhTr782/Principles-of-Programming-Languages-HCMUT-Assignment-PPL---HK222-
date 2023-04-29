@@ -1,0 +1,5 @@
+
+        foo: integer = 1;
+        foo1: function auto () 
+        {foo();}
+        

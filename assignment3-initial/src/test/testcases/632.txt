@@ -1,0 +1,6 @@
+
+        foo: function integer (c: integer, d: integer) {}
+        main: function void () {
+            b: integer = foo+1;
+        }
+        

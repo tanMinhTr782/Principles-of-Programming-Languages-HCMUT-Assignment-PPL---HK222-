@@ -1,0 +1,4 @@
+
+            x : integer;
+            main : function void () {count(1/100,2027*2028+1);}
+        

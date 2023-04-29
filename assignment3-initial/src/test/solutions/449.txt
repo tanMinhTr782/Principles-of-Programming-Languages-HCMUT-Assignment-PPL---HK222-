@@ -1,0 +1,1 @@
+Type mismatch in statement: CallStmt(printString, BinExpr(+, ArrayCell(a, [IntegerLit(0), IntegerLit(1)]), IntegerLit(2)))

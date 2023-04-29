@@ -1,0 +1,11 @@
+ 
+        getHigh: function integer (inherit out well: integer) {
+            do {
+                for (i = well, i > 0, i-1) {
+                printString("I can do it"); 
+                }
+                well = well - 1; 
+            }
+            while (well > 20);
+        return well - 20; 
+        }

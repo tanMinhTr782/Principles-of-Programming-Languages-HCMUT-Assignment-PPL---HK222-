@@ -1,0 +1,4 @@
+
+                a: array[3] of integer = {1,2,3}; 
+            x: integer = a[1] * 4; 
+        

@@ -1,0 +1,7 @@
+
+        x:integer;
+        foo: function void (x:integer, y: float, z:string, t:boolean) {
+            x:integer;
+        }
+        main: function void () {}
+        

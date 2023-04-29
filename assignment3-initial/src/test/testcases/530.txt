@@ -1,0 +1,5 @@
+ 
+            a: integer = fibo(5.2);
+            fibo: function integer (n: integer) {}
+            main: function void () {}
+        

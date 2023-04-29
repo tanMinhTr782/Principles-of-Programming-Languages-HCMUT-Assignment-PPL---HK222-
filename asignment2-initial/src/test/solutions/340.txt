@@ -1,0 +1,4 @@
+Program([
+	FuncDecl(dbs, IntegerType, [], dsa, BlockStmt([ReturnStmt(IntegerLit(1))]))
+	VarDecl(x, IntegerType, UnExpr(-, FuncCall(dbs, [])))
+])

@@ -1,0 +1,10 @@
+
+            main : function void() {
+                x : integer ;
+                if(x==3){
+                    for (i = 1, i < 10, i + 1) {
+                    writeInt(i);
+                    }
+                } else {z : integer = 3;}
+            }
+        

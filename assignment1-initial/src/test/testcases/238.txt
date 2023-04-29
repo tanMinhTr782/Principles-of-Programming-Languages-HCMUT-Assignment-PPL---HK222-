@@ -1,0 +1,6 @@
+
+            test: function integer (out x:integer, data:string){
+            a : integer;
+            out b: string;
+           }
+        

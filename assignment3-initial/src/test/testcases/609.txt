@@ -1,0 +1,4 @@
+ 
+            a: integer = fibo(5);
+            main: function void () {}
+        

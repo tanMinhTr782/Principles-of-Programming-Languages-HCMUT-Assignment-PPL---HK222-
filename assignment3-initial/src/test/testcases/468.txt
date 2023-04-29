@@ -1,0 +1,11 @@
+
+        foo3: function integer(x:integer, y: float, z:boolean, t:string){}
+        main: function void () {
+            x : integer;
+            y : float;
+            z: integer;
+            x =  1 + foo3(1,1.0,true,"Kien");
+            x = foo3(1,1.0,true,"Kien");
+            y = x;
+        }
+        

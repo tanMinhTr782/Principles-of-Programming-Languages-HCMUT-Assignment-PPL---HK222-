@@ -1,0 +1,6 @@
+
+        main: function void (){
+        checker: boolean = True; 
+        if (!checker) printString("Don't look for me"); 
+        else printString("Everything Goes On");
+        }

@@ -1,0 +1,7 @@
+
+        main: function void(){
+            for ( x = 1 , x < 0, x + 1 ){
+                y: integer;
+            }
+        }
+        

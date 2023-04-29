@@ -1,0 +1,7 @@
+main : function void() {
+                a: integer = 1990; 
+                b: float = 19_75e2;  
+                if (a >= b) {a = b; }
+                if (a <= b) {a = a + 1;}
+                if (a == b) {b = b + 1; }
+        }

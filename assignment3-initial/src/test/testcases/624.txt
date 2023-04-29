@@ -1,0 +1,5 @@
+
+        a: array[3] of integer = {1,2,3};
+        b: array[3] of float = {1,2,3};
+        main: function void () {}
+        

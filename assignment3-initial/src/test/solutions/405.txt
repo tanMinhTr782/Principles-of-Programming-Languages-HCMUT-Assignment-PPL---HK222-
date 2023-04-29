@@ -1,0 +1,1 @@
+Type mismatch in expression: BinExpr(::, StringLit(HCMUT), IntegerLit(2023))

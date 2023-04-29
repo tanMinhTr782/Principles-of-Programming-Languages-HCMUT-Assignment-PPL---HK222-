@@ -1,0 +1,12 @@
+ 
+        inc: function void(out n: integer,delta: array [1] of integer) {
+            i: integer; 
+            for (i = 0, i < delta[11], i + 1) {
+                    while (delta[11] < 69) break; 
+            }
+        }
+        main: function void() {
+            delta: array [15] of integer; 
+            inc(x, delta);
+            printInteger(x);
+        }

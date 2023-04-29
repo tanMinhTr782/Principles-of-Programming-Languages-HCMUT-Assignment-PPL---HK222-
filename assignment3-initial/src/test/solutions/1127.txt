@@ -1,0 +1,1 @@
+Type mismatch in statement: DoWhileStmt(Id(x), BlockStmt([AssignStmt(Id(x), BinExpr(+, Id(x), IntegerLit(1)))]))

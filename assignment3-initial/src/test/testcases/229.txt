@@ -1,0 +1,7 @@
+
+            main: function void () {
+                do {
+                
+                }
+                while ("HCMUT"::"K22"); 
+        }

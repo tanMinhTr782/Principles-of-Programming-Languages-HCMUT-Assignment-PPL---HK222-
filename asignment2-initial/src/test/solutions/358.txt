@@ -1,0 +1,4 @@
+Program([
+	FuncDecl(iOT, StringType, [InheritParam(SE, IntegerType), InheritOutParam(DBS, StringType), OutParam(FS, StringType)], dADN, BlockStmt([VarDecl(result, StringType, StringLit(CE)), CallStmt(readInteger, ), CallStmt(printString, Id(DBS)), AssignStmt(Id(result), BinExpr(+, Id(result), StringLit(CS))), ReturnStmt(Id(result))]))
+	FuncDecl(main, IntegerType, [], None, BlockStmt([VarDecl(a, FloatType, BinExpr(+, FloatLit(28.01), FloatLit(11.11))), VarDecl(b, ArrayType([3, 3], FloatType)), VarDecl(b, ArrayType([2022], IntegerType)), CallStmt(IOT, IntegerLit(221), StringLit(Oracle), StringLit(Adafruit MQTT)), ForStmt(AssignStmt(Id(i), IntegerLit(0)), BinExpr(<, Id(i), IntegerLit(2022)), BinExpr(+, Id(i), IntegerLit(1)), AssignStmt(ArrayCell(b, [Id(i)]), IntegerLit(0))), ReturnStmt(IntegerLit(0))]))
+])

@@ -1,0 +1,7 @@
+
+            x : integer ;
+            main : function void() {
+                x : integer ;
+                if(x==3) y = 3;
+            }
+        

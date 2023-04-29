@@ -1,0 +1,6 @@
+
+            foo1:function integer(a:auto, b:auto) {
+                arr: array [2] of integer = { a, b };
+                a = a + 0.1; 
+            }
+        }

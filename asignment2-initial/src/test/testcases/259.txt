@@ -1,0 +1,7 @@
+calYear: function void (a: array [2_8] of integer) {
+            printInteger(4); 
+            if (a[0,0] < 10) a[0,3] = a[0,1];
+            else {
+                for (i = 0 , i < 8, i+1) a[0,i] = 2010 + i; 
+            } 
+        }

@@ -1,0 +1,12 @@
+
+            arr : array [5,6] of integer;
+            x : integer = 1111;
+            main : function void() {
+                if(x==1111) {
+                    arr[3,4] = 5;
+                }
+                else {
+                    arr[0,1] = 1 ;
+                }
+            }
+        

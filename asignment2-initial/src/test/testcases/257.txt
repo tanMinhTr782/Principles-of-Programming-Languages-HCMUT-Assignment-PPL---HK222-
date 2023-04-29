@@ -1,0 +1,12 @@
+x: integer = 65;
+        fact: function integer (n: integer) {
+            n = 0; 
+            while (n < 69){
+                printString("Tran Ngoc Bao Duy");
+                n = n +1 ; 
+                if (n == 68) break; 
+                else continue; 
+            }
+            while (n > 67) n = n - 1; 
+            return n; 
+        }

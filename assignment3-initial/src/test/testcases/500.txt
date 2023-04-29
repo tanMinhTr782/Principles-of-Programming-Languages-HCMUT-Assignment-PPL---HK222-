@@ -1,0 +1,17 @@
+
+        foo: function boolean(x:integer) {
+            while (x > 1) {
+                {
+                    while (x < 5) {
+                    continue; 
+                    }
+                    x = 1.4;
+                } 
+                a = 9; 
+            }
+            continue; 
+        }
+        main: function void() {
+            foo(1.5);
+        }
+        

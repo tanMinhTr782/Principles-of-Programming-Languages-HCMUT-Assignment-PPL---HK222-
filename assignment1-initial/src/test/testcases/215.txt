@@ -1,0 +1,5 @@
+
+            function mess: integer (n: integer){
+                return n/50 * 2;
+            }
+        

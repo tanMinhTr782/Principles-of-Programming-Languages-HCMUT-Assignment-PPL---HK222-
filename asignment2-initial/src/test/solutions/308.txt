@@ -1,0 +1,4 @@
+Program([
+	VarDecl(a, ArrayType([16, 16], IntegerType), ArrayLit([IntegerLit(28), IntegerLit(1), IntegerLit(2022), Id(k)]))
+	VarDecl(b, ArrayType([5], BooleanType), ArrayLit([BooleanLit(True), BooleanLit(False), BooleanLit(True)]))
+])

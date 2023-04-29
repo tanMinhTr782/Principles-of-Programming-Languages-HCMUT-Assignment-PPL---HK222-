@@ -1,0 +1,5 @@
+
+        foo: function integer () {
+                return 1.5;
+        }
+       

@@ -1,0 +1,10 @@
+
+        foo:function auto() {}
+        main: function void () {
+        
+            b: array[1] of integer = {foo()};
+            c: integer = foo();
+            d: array[1] of float = {foo()+1.2};
+            e: float = foo();
+        }
+        

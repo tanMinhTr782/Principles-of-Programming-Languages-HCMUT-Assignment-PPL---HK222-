@@ -1,0 +1,4 @@
+
+        a : integer;
+        a : function void (out n : integer, a:float) inherit foo{} 
+        

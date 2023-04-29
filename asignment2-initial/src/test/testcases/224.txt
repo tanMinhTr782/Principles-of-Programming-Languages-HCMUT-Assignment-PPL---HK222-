@@ -1,0 +1,9 @@
+_t3st3r: function integer (inherit out i: integer) inherit dsa {
+            i:integer = 15 - 7 + 9;
+            while (i == 0) i = i + 1; 
+            while (i > 9) {
+                i = readInteger();
+                return i;  
+            }
+            return i * 20 + 4; 
+        }

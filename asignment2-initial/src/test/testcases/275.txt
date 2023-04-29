@@ -1,0 +1,5 @@
+main : function void() {
+                a: integer = 2002; 
+                b: integer = 2000;  
+                c: boolean = (a >= b); 
+        }

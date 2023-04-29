@@ -1,0 +1,4 @@
+
+        x : integer;
+        x = count(1+1,1*2)
+        

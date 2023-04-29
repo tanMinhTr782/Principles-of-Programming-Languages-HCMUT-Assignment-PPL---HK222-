@@ -1,0 +1,6 @@
+
+        main: function void () {}
+        foo: function void (x:integer, y: float, z:string) {
+            a : float =  true;
+        }
+        

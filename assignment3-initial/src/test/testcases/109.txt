@@ -1,0 +1,4 @@
+
+        foo: function void (a:float, a:string) inherit tmp {}
+        tmp: function void (inherit x:integer, x: integer) {}    
+        

@@ -1,0 +1,11 @@
+
+        foo: function boolean(x:integer) {
+            while (x > 1) {
+                
+            }
+            continue; 
+        }
+        main: function void() {
+            foo(1.5);
+        }
+        

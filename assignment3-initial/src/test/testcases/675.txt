@@ -1,0 +1,3 @@
+
+        foo: function void (inherit a: integer, a: float) inherit bar {}
+        

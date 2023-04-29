@@ -1,0 +1,5 @@
+
+            main: function void () {
+                a: string; 
+                a = -"0301"; 
+        }

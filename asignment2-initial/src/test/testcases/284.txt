@@ -1,0 +1,12 @@
+
+            main : function void() {
+                p : integer ;
+                if(p==3){
+                    l : integer ;
+                    if(l==4) {ppl222 : integer = 4;}
+                    else {
+                        ppl222 : integer = 5;
+                    }
+                }
+            }
+        

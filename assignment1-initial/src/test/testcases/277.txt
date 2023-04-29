@@ -1,0 +1,8 @@
+
+
+            arr : array [1,2] of integer;
+            main : function void() {
+                if(x==3) {arr[0,1] = arr [0,2];}
+                else {arr[0,1] = arr[1,2];}
+            }
+        

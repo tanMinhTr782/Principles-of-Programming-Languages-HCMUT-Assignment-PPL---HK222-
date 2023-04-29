@@ -1,0 +1,4 @@
+Program([
+	VarDecl(a, FloatType, BinExpr(+, BinExpr(+, BinExpr(%, IntegerLit(1000), IntegerLit(2)), FloatLit(2e-11)), FloatLit(8.98)))
+	VarDecl(b, FloatType, BinExpr(&&, BinExpr(+, BinExpr(+, BinExpr(/, BinExpr(/, BinExpr(*, BinExpr(-, IntegerLit(1), IntegerLit(1)), IntegerLit(2)), IntegerLit(2)), IntegerLit(2)), BinExpr(%, IntegerLit(8), IntegerLit(3))), BinExpr(*, UnExpr(-, UnExpr(-, UnExpr(-, IntegerLit(10)))), UnExpr(!, UnExpr(!, UnExpr(!, BooleanLit(True)))))), BooleanLit(False)))
+])

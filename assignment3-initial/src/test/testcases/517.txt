@@ -1,0 +1,13 @@
+
+        foo: function boolean(x:integer) {
+            do {
+                    if (x == 11) break; 
+                    else {
+                        x = x  + 1; 
+                        continue;
+                        } 
+                }
+            while (x > 1); 
+            continue; 
+        }
+        

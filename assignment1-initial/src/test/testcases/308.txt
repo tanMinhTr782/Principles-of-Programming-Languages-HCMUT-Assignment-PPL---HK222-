@@ -1,0 +1,5 @@
+
+          main : function void () {
+             alse1 : integer = 1[2];
+            a = ar[1,2];}
+        

@@ -1,0 +1,5 @@
+
+        foo: function void(a:auto){
+        a = foo();
+        }
+        

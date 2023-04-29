@@ -1,0 +1,2 @@
+dbs: function array [5] of integer (inherit a: array [9] of boolean) inherit dsa {
+        }

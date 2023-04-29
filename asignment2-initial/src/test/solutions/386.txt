@@ -1,0 +1,5 @@
+Program([
+	VarDecl(x, StringType, StringLit(Everything))
+	VarDecl(y, StringType, StringLit(Goes On))
+	VarDecl(z, StringType, BinExpr(::, Id(x), Id(y)))
+])

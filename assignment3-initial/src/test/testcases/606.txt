@@ -1,0 +1,11 @@
+
+            a: integer = 1;
+            b: float = 1;
+            c: string = "1";
+            d: boolean = true;
+            f: string;
+            g: boolean;
+            h: float;
+            i: integer;
+            main: function void () {}
+        

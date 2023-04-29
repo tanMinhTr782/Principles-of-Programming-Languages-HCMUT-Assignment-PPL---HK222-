@@ -1,0 +1,5 @@
+
+        main: function void (){
+            a:string = "HCMUT"::"K20";
+            printString(a); 
+        }

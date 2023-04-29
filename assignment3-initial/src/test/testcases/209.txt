@@ -1,0 +1,5 @@
+
+            main: function void () {
+                a: boolean; 
+                a = (12.25 == 12); 
+        }

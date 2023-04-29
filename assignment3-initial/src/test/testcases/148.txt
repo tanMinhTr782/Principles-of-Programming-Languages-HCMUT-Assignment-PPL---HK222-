@@ -1,0 +1,8 @@
+
+        a: integer;
+        foo: function integer (p: boolean) {}
+        bar: function integer (p: boolean) inherit foo {
+            super(true);
+        }
+        main: function void () {}
+        

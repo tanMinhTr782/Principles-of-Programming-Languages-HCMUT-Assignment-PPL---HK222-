@@ -1,0 +1,7 @@
+
+        foo: function auto(x: float, y:auto){
+            y = x;
+            y = 5;
+        }
+        main: function void () {}
+        

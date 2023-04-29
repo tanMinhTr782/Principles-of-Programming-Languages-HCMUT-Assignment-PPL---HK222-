@@ -1,0 +1,5 @@
+
+          foo: function integer () {return 1;}  
+          x: array [1,2,3] of integer; 
+          y: auto = x[1,foo()];
+          

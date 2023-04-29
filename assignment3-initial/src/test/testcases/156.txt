@@ -1,0 +1,7 @@
+
+        x:float;
+        y:float;
+        main: function void () {
+            a: boolean = x==y;
+        }
+        

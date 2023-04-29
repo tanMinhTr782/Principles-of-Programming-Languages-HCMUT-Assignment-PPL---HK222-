@@ -1,0 +1,14 @@
+
+        bar: function boolean(a:integer){
+            
+            k:boolean = 5==4;
+            {
+                a: string = "Yo Mr. White";
+            }
+            return k;
+            k: integer = 5;
+
+        }
+        main: function void(){
+        }
+        

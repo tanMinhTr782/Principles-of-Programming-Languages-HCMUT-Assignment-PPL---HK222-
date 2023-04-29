@@ -1,0 +1,7 @@
+
+            main: function void () {
+                a: array [5,2] of float;
+                a[0] = 2;
+                printInteger(a[0,1] + a[0,2]);
+            }
+        

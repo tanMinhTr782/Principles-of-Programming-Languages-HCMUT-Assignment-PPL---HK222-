@@ -1,0 +1,8 @@
+
+        a: array[2,2] of integer;
+        b: array[2] of integer = a[0];
+        main: function void () {
+        
+        }
+        
+        

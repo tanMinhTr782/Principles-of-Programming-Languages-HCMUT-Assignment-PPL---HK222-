@@ -1,0 +1,6 @@
+
+            main: function void () {
+                x:array [3] of integer = {1,2,3}; 
+                x = {4,5,6}; 
+                
+        }

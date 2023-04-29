@@ -1,0 +1,8 @@
+
+        a: float = foo(1,2);
+        foo: function float (a:auto,b:auto){
+            a = "abc";
+            b = "bcd";
+            return a + b;
+        }
+        

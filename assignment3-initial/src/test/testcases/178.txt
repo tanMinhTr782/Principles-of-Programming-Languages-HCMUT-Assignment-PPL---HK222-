@@ -1,0 +1,8 @@
+
+        bar: function boolean(a:integer){
+            if (a==5)
+                return a;
+        }
+        main: function void(){
+        }
+        

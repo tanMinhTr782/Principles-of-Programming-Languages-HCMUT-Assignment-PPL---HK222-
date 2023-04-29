@@ -1,0 +1,7 @@
+
+
+        main: function void (){
+        hcmut = 21; 
+        hcmut = 21 + -1; 
+        printString("HCMUT"::"K20"); 
+        }

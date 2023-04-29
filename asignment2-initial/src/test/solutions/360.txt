@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(main, VoidType, [], None, BlockStmt([CallStmt(printInteger, IntegerLit(4)), VarDecl(a, ArrayType([28], IntegerType)), AssignStmt(ArrayCell(a, [IntegerLit(0), IntegerLit(0)]), IntegerLit(1111)), AssignStmt(ArrayCell(a, [IntegerLit(0), IntegerLit(1)]), IntegerLit(2022)), AssignStmt(ArrayCell(a, [IntegerLit(0), IntegerLit(0)]), BinExpr(+, BinExpr(-, BinExpr(/, ArrayCell(a, [IntegerLit(0), IntegerLit(1)]), IntegerLit(2)), IntegerLit(11)), BinExpr(*, IntegerLit(1000), IntegerLit(2)))), CallStmt(printInteger, ArrayCell(a, [IntegerLit(0), IntegerLit(0)])), ReturnStmt(IntegerLit(0))]))
+])

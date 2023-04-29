@@ -1,0 +1,7 @@
+
+        a: auto = foo();
+        foo: function string (){}
+        main: function void(){
+        a = "Lick my balls";
+        }
+        

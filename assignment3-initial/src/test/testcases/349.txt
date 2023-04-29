@@ -1,0 +1,7 @@
+
+        foo: function integer (x: float) {return foo1(69);}
+        foo1: function integer (x: integer) {return 0;}
+        main: function void () {
+
+        }
+        

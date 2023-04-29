@@ -1,0 +1,7 @@
+
+        foo3: function integer(x:integer, y: float, z:boolean, t:string){}
+        main: function void () {
+            x : integer;
+            x = 1.0;
+        }
+        

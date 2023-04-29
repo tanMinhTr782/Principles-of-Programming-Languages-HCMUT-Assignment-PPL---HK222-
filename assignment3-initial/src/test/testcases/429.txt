@@ -1,0 +1,6 @@
+
+        fact: function void (m:integer, n: float) inherit foo {
+            preventDefault();
+        }
+        foo: function integer (x:integer, y: float, z:boolean) {}
+        

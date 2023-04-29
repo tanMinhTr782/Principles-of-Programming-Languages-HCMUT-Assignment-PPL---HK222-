@@ -1,0 +1,11 @@
+
+            main : function void() {
+                x : integer = 5;
+                do {
+                    if(x==3) continue;
+                    else writeInt(x);
+                }
+                while (x > 0);
+            }
+
+        

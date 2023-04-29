@@ -1,0 +1,3 @@
+
+        tmp: function void (inherit x:integer, x: integer) {}    
+        

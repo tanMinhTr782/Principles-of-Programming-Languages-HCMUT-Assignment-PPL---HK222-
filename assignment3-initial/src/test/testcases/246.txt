@@ -1,0 +1,8 @@
+
+        foo: function integer () {}
+        foo1: function void (a:integer) inherit foo {
+                preventDefault();  
+        }
+            main: function void () {
+                foo1(69); 
+        }

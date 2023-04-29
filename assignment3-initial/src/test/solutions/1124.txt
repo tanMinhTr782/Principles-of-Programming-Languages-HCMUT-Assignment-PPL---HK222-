@@ -1,0 +1,1 @@
+Type mismatch in statement: WhileStmt(IntegerLit(0), AssignStmt(Id(x), BinExpr(+, Id(y), IntegerLit(1))))

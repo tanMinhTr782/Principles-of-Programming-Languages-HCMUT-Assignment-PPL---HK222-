@@ -1,0 +1,10 @@
+func: function integer() {
+            a: integer = 1;
+            while(a < 10) {
+            a = a + 1;
+            continue;
+            a: float = 12.0;
+            }  
+            }
+        main: function void() {}
+            

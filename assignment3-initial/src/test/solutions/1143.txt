@@ -1,0 +1,1 @@
+Type mismatch in statement: CallStmt(bar, Id(a), FloatLit(1.0))

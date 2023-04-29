@@ -1,0 +1,2 @@
+a: array [16,16] of integer = {2_8, 1,2022,k};
+        b: array[5] of boolean = {true,false,true}; 

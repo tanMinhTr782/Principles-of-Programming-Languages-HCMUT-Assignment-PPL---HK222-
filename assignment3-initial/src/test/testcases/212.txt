@@ -1,0 +1,6 @@
+
+            main: function void () {
+                a: boolean;
+                b: array [3] of boolean;  
+                a = (12.25 < b); 
+        }

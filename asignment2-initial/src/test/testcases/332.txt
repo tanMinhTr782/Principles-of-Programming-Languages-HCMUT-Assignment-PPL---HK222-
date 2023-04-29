@@ -1,0 +1,7 @@
+
+        main: function void () {
+                a:integer = 100; 
+                if (a % 7 == (4 >= 7)) printString("True");
+                else printString("False");  
+                return 0; 
+            }
