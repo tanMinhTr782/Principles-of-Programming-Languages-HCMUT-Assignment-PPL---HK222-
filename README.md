@@ -6,5 +6,5 @@ Score distribution for each assignment.
   - Parser: 53/100.
 - Assignment 2: 94/96.
 - Assignment 3: 82/100. 
-- Assignment 4: 0/10.\
+- Assignment 4: 0/10.<br />
 I gave up on assingment 4 because I didn't have time to do it. 
