@@ -7,4 +7,4 @@ Score distribution for each assignment.
 - Assignment 2: 94/96.
 - Assignment 3: 82/100. 
 - Assignment 4: 0/10.
-I gave up on assingment 4 because I didn't have time to do it. 
+\ I gave up on assingment 4 because I didn't have time to do it. 
