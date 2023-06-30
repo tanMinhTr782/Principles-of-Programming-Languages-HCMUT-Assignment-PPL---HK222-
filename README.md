@@ -5,6 +5,6 @@ Score distribution for each assignment.
   - Lexer: 91/100
   - Parser: 53/100
 - Assignment 2: 94/96
-- Assignment 3: TBA. 
-- Assignment 4: On working...
+- Assignment 3: 82/100. 
+- Assignment 4: Not having enough time to think & do. 
 
